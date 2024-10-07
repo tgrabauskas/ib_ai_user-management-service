@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/tgrabauskas/ib_ai_user-management-service/issues"
   },
-  "homepage": "https://github.com/tgrabauskas/ib_ai_user-management-service#readme"
+  "homepage": "https://github.com/tgrabauskas/ib_ai_user-management-service#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0"
+  }
 }
